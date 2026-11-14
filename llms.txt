@@ -1,0 +1,20 @@
+# Dino Studio
+
+> Dino Studio works across event photography, highlight film, sports photojournalism, portraits, and digital visual design from Stockholm, Sweden. Founded by Dino Bavehjani (member of Svenska Journalistförbundet and Bildleverantörernas Förening).
+
+- Primary location: Stockholm, Sweden (available across Sweden)
+- Contact email: info@dinostudio.se
+- Website: https://dinostudio.se/
+
+## Main Pages
+
+- [Startsida (SV)](https://dinostudio.se/sv/): Eventfoto, highlightfilm, porträtt och bildjournalistik i Stockholm.
+- [Home (EN)](https://dinostudio.se/en/): Event photography, highlight film, portraits, and photojournalism in Stockholm.
+- [Utvalda arbeten (SV)](https://dinostudio.se/sv/work/): Portfolio across event & photography, sport & arena, film & moving image, and digital & web.
+- [Selected Work (EN)](https://dinostudio.se/en/work/): Portfolio across event & photography, sport & arena, film & moving image, and digital & web.
+- [Tjänster (SV)](https://dinostudio.se/sv/services/): Event Content System, recurring photography & film, and digital/visual design.
+- [Services (EN)](https://dinostudio.se/en/services/): Event Content System, recurring photography & film, and digital/visual design.
+- [Om studion (SV)](https://dinostudio.se/sv/about/): Om Dino Studio, utbildning och pressackreditering.
+- [About the Studio (EN)](https://dinostudio.se/en/about/): About Dino Studio, background, and accreditations.
+- [Kontakt & Offertförfrågan (SV)](https://dinostudio.se/sv/contact/): Kontakta Dino Studio för skriftlig offert.
+- [Contact & Quote Enquiry (EN)](https://dinostudio.se/en/contact/): Contact Dino Studio for a written project quote.

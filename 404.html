@@ -3,6 +3,8 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="alternate icon" href="/favicon.ico" />
     <title>Dino Studio | Eventfoto & Film i Stockholm</title>
     <meta name="description" content="Eventfoto och film för företag och organisationer i Stockholm. Fotoreportage, korta highlightfilmer, porträtt och kompletterande sportbevakning från Dino Studio." />
     <meta name="robots" content="index,follow,max-image-preview:standard" />
@@ -10,14 +12,14 @@
     <meta name="referrer" content="strict-origin-when-cross-origin" />
     <link rel="preload" as="font" type="font/woff2" crossorigin href="/fonts/syne-bold.woff2" />
     <link rel="preload" as="font" type="font/woff2" crossorigin href="/fonts/plus-jakarta-sans.woff2" />
-    <link rel="alternate" hreflang="sv" href="https://dinostudio.se/sv" />
-    <link rel="alternate" hreflang="en" href="https://dinostudio.se/en" />
-    <link rel="alternate" hreflang="x-default" href="https://dinostudio.se/sv" />
-    <link rel="canonical" href="https://dinostudio.se/sv" />
+    <link rel="alternate" hreflang="sv" href="https://dinostudio.se/sv/" />
+    <link rel="alternate" hreflang="en" href="https://dinostudio.se/en/" />
+    <link rel="alternate" hreflang="x-default" href="https://dinostudio.se/sv/" />
+    <link rel="canonical" href="https://dinostudio.se/sv/" />
     <meta property="og:title" content="Dino Studio | Eventfoto & Film i Stockholm" />
     <meta property="og:description" content="Eventfoto och film för företag och organisationer i Stockholm. Fotoreportage, korta highlightfilmer, porträtt och kompletterande sportbevakning från Dino Studio." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://dinostudio.se/sv" />
+    <meta property="og:url" content="https://dinostudio.se/sv/" />
     <meta property="og:image" content="https://dinostudio.se/images/event-1513.webp" />
     <meta property="og:locale" content="sv_SE" />
     <meta property="og:locale:alternate" content="en_US" />
@@ -80,10 +82,37 @@
         }
       }
     </script>
-    <script type="module" crossorigin src="/assets/index-BH-iwjE_.js"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-6EZB4B9WPK', {
+        allow_google_signals: false,
+        allow_ad_personalization_signals: false,
+        cookie_flags: 'SameSite=Lax;Secure'
+      });
+      (function () {
+        var loaded = false;
+        function loadGtag() {
+          if (loaded) return;
+          loaded = true;
+          var s = document.createElement('script');
+          s.async = true;
+          s.src = 'https://www.googletagmanager.com/gtag/js?id=G-6EZB4B9WPK';
+          document.head.appendChild(s);
+        }
+        ['pointerdown', 'keydown', 'scroll', 'touchstart'].forEach(function (ev) {
+          window.addEventListener(ev, loadGtag, { once: true, passive: true });
+        });
+        window.addEventListener('load', function () {
+          setTimeout(loadGtag, 4500);
+        }, { once: true });
+      })();
+    </script>
+    <script type="module" crossorigin src="/assets/index-DpIrMsTz.js"></script>
     <link rel="modulepreload" crossorigin href="/assets/rolldown-runtime-WkwZ5CU-.js">
     <link rel="modulepreload" crossorigin href="/assets/vendor-lucide-DmbHjOw9.js">
-    <link rel="stylesheet" crossorigin href="/assets/index-xIP398Se.css">
+    <link rel="stylesheet" crossorigin href="/assets/index-gIsfwLdn.css">
   </head>
   <body class="bg-[#07080a] text-[#f5f5f7] antialiased selection:bg-white selection:text-black min-h-screen">
     <div id="root"></div>
